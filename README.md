@@ -9,7 +9,10 @@
 <a href="https://wakatime.com/@ed76cf6d-4c5c-4c9c-93f5-304e4a378b69">
   <img src="https://wakatime.com/badge/user/ed76cf6d-4c5c-4c9c-93f5-304e4a378b69.svg" alt="Total time coded since Aug 1 2022" />
 </a>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **domingosmiguel/domingosmiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
