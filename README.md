@@ -2,13 +2,20 @@
 <a href="https://wakatime.com/@ed76cf6d-4c5c-4c9c-93f5-304e4a378b69">
   <img src="https://wakatime.com/badge/user/ed76cf6d-4c5c-4c9c-93f5-304e4a378b69.svg" alt="Total time coded since Aug 1 2022" />
 </a>
-
+<!--
 <div align="center">
   <a href="https://github.com/domingosmiguel">
-  <img height="165em" width="200em" src="https://github-readme-stats.vercel.app/api?username=domingosmiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosmiguel&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=domingosmiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosmiguel&layout=compact&langs_count=7&theme=dark"/>
 </div>
+--!>
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=domingosmiguel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="domingosmiguel_contribution_streak" />
 
+  <img height="205em" alt="domingosmiguel stats" src="https://github-readme-stats.vercel.app/api?username=domingosmiguel&show_icons=true&hide_border=true" />
+
+  <img height="205em" alt="domingosmiguel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosmiguel" />
+</div>
 <!--
 **domingosmiguel/domingosmiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
