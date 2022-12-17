@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs
+Total Time: 13 hrs 27 mins
 
-JavaScript   13 hrs 42 mins  ██████████████████████▓░░   91.31 %
-SQL          1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+JavaScript   11 hrs 9 mins   ████████████████████▓░░░░   82.94 %
+SQL          2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
 ```
 
 <!--END_SECTION:waka-->
